@@ -13,9 +13,7 @@ main() {
     '-',
     '-',
   ];
-  // board[x-1] = '-';
-  // print('value aleardy exist  ');
-  // ;return  inp(board)
+
   dis() {
     print('|' + board[0] + '|' + board [1 ] + '|' + board [ 2] + '|');
     print('|' + board[3] + '|' + board [4 ] + '|' + board [ 5] + '|');
